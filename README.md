@@ -69,6 +69,9 @@ print("Evaluation Result:", result)  # Expected output: True
 
 3. evaluate_rule(node, data): Recursively evaluates the AST against the user data.
 
+
+
+
 # assignment-2
 
 # 🌦️ Real-Time Weather Monitoring System
@@ -96,8 +99,8 @@ This project is a real-time weather data processing system that fetches weather 
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/sadiyarajgoli/assignments.git
+   cd assignments
 
 2. Install the required Python libraries:
 
@@ -114,7 +117,7 @@ API_KEY = 'your_actual_api_key'
 
 2. Fetch Weather Data: Use the get_weather_data() function to fetch data for cities:
 
-cities = ['Delhi', 'Mumbai', 'Chennai', 'Bangalore', 'Kolkata', 'Hyderabad']
+cities = ['Pune','Delhi', 'Mumbai', 'Chennai', 'Bangalore', 'Kolkata', 'Hyderabad']
 for city in cities:
     weather_data = get_weather_data(city)
     print(f"Weather in {city}: {weather_data}")
