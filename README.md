@@ -23,7 +23,7 @@ This project is a 3-tier rule engine application that determines user eligibilit
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/sadiyarajgoli/assignments.git
    cd your-repo-name
 
 2. Install any dependencies (none required for basic functionality).
