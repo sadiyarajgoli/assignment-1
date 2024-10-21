@@ -30,7 +30,7 @@ This project is a 3-tier rule engine application that determines user eligibilit
 
 
 
-##🔧 Usage
+🔧 Usage
 
 1. Create a Rule Tree: The create_rule(rule_string) function builds an Abstract Syntax Tree (AST) from the given rule. Example:
 
@@ -46,7 +46,7 @@ print("Evaluation Result:", result)
 
 
 
-##🧪 Test Cases
+🧪 Test Cases
 
 The code includes a basic test case to validate the functionality of the rule engine:
 
@@ -59,7 +59,7 @@ print("Evaluation Result:", result)  # Expected output: True
 
 
 
-##⚙️ Functions Explained
+⚙️ Functions Explained
 
 1. Node Class: Represents a node in the AST, which can be an operator or operand.
 
