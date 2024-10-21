@@ -69,8 +69,7 @@ print("Evaluation Result:", result)  # Expected output: True
 
 3. evaluate_rule(node, data): Recursively evaluates the AST against the user data.
 
-
-#assignment-2
+# assignment-2
 
 # 🌦️ Real-Time Weather Monitoring System
 
